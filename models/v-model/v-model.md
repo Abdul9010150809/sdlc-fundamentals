@@ -10,3 +10,7 @@ The V-Model is a variant of the Waterfall model. It emphasizes verification and 
 ## Advantages:
 - Clear and easy-to-follow structure.
 - Testing is integrated throughout the lifecycle.
+
+## Limitations to Consider
+- Less flexibility for take in changes once development begins.
+- Requires well-documented and stable requirements from the outset.
